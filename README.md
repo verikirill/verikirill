@@ -16,7 +16,7 @@
 
 <div align="center" style="margin-top: 30px;">
   <img src="https://prodvijenie-saijtov.ru/gif/gif181.gif" alt="Horizontal GIF" style="width: 100%; max-width: 800px; height: auto; border-radius: 8px; margin-bottom: 20px;">
-  <p style="font-size: 22px; font-weight: bold; margin-bottom: 10px; margin-top: 20px;">Языки и Технологии:</p>
+  <h2 style="font-size: 22px; font-weight: bold; margin-bottom: 10px; margin-top: 20px;">Языки и Технологии:</h2>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -24,6 +24,5 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
-    <!-- Добавьте больше значков по мере необходимости -->
   </div>
 </div>
