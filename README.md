@@ -26,3 +26,31 @@
     <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
   </div>
 </div>
+
+<div align="center" style="margin-top: 50px;">
+  <hr style="border: none; border-top: 2px solid #36BCF7; width: 100%; max-width: 800px; margin-bottom: 20px;">
+
+  <h2 style="font-size: 22px; font-weight: bold; margin-bottom: 20px;">Также в последнее время увлекаюсь дизайном, можете оценить мои работы :)</h2>
+
+  <div style="max-width: 800px; width: 100%; border: 2px solid #36BCF7; border-radius: 12px; padding: 20px; box-sizing: border-box;">
+    <div style="display: flex; justify-content: center; margin-bottom: 20px;">
+      <img src="https://i.ibb.co/tMqLkX2p/Slide1.png" alt="Design1" style="width: 50%; border-radius: 10px;">
+    </div>
+    <hr style="border: none; border-top: 1px solid #36BCF7; margin: 20px 0;">
+    <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+      <img src="https://i.ibb.co/3530M8fF/Slide3.png" alt="Design2" style="width: 48%; border-radius: 10px;">
+      <img src="https://i.ibb.co/6J4k0sch/Slide10.png" alt="Design3" style="width: 48%; border-radius: 10px;">
+    </div>
+    <hr style="border: none; border-top: 1px solid #36BCF7; margin: 20px 0;">
+    <div style="display: flex; justify-content: center; margin-bottom: 20px;">
+      <img src="https://i.ibb.co/6JtzbbZF/Slide5.png" alt="Design4" style="width: 50%; border-radius: 10px;">
+    </div>
+    <hr style="border: none; border-top: 1px solid #36BCF7; margin: 20px 0;">
+    <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+      <img src="https://i.ibb.co/y1VJYNX/Slide-1.png" alt="Design5" style="width: 48%; border-radius: 10px;">
+      <img src="https://i.ibb.co/pBP7jxyG/screenshots.png" alt="Design6" style="width: 48%; border-radius: 10px;">
+    </div>
+  </div>
+
+  <hr style="border: none; border-top: 2px solid #36BCF7; width: 100%; max-width: 800px; margin-top: 20px;">
+</div>
