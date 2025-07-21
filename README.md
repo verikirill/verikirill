@@ -42,10 +42,6 @@
       <img src="./screenshots/Slide10.png" alt="Design3" style="width: 48%; border-radius: 10px;">
     </div>
     <hr style="border: none; border-top: 1px solid #36BCF7; margin: 20px 0;">
-    <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-      <img src="./screenshots/Slide5.png" alt="Design4" style="width: 50%; border-radius: 10px;">
-    </div>
-    <hr style="border: none; border-top: 1px solid #36BCF7; margin: 20px 0;">
     <div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
       <img src="./screenshots/Slide11.png" alt="Design5" style="width: 48%; border-radius: 10px;">
       <img src="./screenshots/screenshots.png" alt="Design6" style="width: 48%; border-radius: 10px;">
