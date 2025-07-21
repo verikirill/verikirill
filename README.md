@@ -30,7 +30,7 @@
 <div align="center" style="margin-top: 50px;">
   <hr style="border: none; border-top: 2px solid #36BCF7; width: 100%; max-width: 800px; margin-bottom: 20px;">
 
-  <h2 style="font-size: 22px; font-weight: bold; margin-bottom: 20px;">Также в последнее время увлекаюсь дизайном, можете оценить мои работы :)</h2>
+  <h2 style="font-size: 22px; font-weight: bold; margin-bottom: 20px;">Также в последнее время увлекаюсь дизайном презентаций, можете оценить мои работы :)</h2>
 
   <div style="max-width: 800px; width: 100%; border: 2px solid #36BCF7; border-radius: 12px; padding: 20px; box-sizing: border-box;">
     <div style="display: flex; justify-content: center; margin-bottom: 20px;">
