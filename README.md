@@ -17,6 +17,7 @@
 <div align="center" style="margin-top: 30px;">
   <img src="https://prodvijenie-saijtov.ru/gif/gif181.gif" alt="Horizontal GIF" style="width: 100%; max-width: 800px; height: auto; border-radius: 8px; margin-bottom: 20px;">
   <h2 style="font-size: 22px; font-weight: bold; margin-bottom: 10px; margin-top: 20px;">Языки и Технологии:</h2>
+  
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -25,6 +26,23 @@
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
   </div>
+  
+  <div style="margin-top: 10px;">
+    <img src="https://img.shields.io/badge/ClickHouse-FF6600?style=for-the-badge&logo=clickhouse&logoColor=white" alt="ClickHouse"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+    <img src="https://img.shields.io/badge/Polars-000000?style=for-the-badge&logo=polars&logoColor=white" alt="Polars"/>
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  </div>
+  
+  <div style="margin-top: 10px;">
+    <img src="https://img.shields.io/badge/LangChain-009688?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/Langraph-4CAF50?style=for-the-badge&logoColor=white" alt="Langraph"/>
+    <img src="https://img.shields.io/badge/LiteStar-AB1A63?style=for-the-badge&logo=litestar&logoColor=white" alt="LiteStar"/>
+    <img src="https://img.shields.io/badge/Dishka-8A2BE2?style=for-the-badge&logoColor=white" alt="Dishka"/>
+  </div>
+
 </div>
 
 <div align="center" style="margin-top: 50px;">
