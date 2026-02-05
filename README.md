@@ -1,5 +1,17 @@
+<div align="center">
+  <img src="https://i.postimg.cc/NfG38zpS/TOP.png" alt="TOP" style="width: 100%;">
+</div>
+
+
+<hr style="border: none; border-top: 2px solid #36BCF7; width: 100%; max-width: 800px; margin-bottom: 20px;">
 <div align="center" style="margin-top: 30px;">
-  <img src="https://i.postimg.cc/6B7V7QzV/Frame-851212422.png" alt="Horizontal GIF" style="width: 100%;">
+  <img src="https://i.postimg.cc/g2Ct7Sq5/RAZDELITEL.png" alt="TOP" style="width: 100%;">
+</div>
+<hr style="border: none; border-top: 2px solid #36BCF7; width: 100%; max-width: 800px; margin-bottom: 20px;">
+
+
+<div align="center" style="margin-top: 30px;">
+  <img src="https://i.postimg.cc/6B7V7QzV/Frame-851212422.png" alt="STACK" style="width: 100%;">
 </div>
 
 <div align="center" style="margin-top: 50px;">
