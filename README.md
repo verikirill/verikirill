@@ -1,3 +1,4 @@
+# [Telegram](https://t.me/kukyumber) & [Резюме](https://drive.google.com/file/d/1PtMWasJhBriBSDHkvaND2OMZciOxS-m2/view?usp=drive_link)
 <div align="center">
   <img src="elems/TOP.jpg" alt="TOP" style="width: 100%;">
 </div>
